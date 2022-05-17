@@ -19,7 +19,7 @@ public abstract class ConsoleLogger {
     private static String log(String logText) {
         Date date = new Date();
         String timestamp = dateFormat.format(date.getTime());
-        return "[" + timestamp + "] " + logText;
+        return "[" + timestamp + "]\t" + logText;
 
     }
 
