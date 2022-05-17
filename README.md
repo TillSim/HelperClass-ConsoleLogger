@@ -1,5 +1,5 @@
 # ConsoleLogger
-**ConsoleLogger** is a *helper* class for printing log messages with timestamp to stream and/or file.
+**ConsoleLogger** is a universal *helper* class for printing log messages with timestamp to stream and/or file.
 
 ---
 
